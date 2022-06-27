@@ -1,0 +1,22 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "glitch の sqlite に prisma で接続してスキーマを作成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glitch-lab888/sample1.git"
+  },
+  "author": "inadati <dr.inadati@gmail.com> (https://github.com/gqlkit-repos)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glitch-lab888/sample1/issues"
+  },
+  "homepage": "https://github.com/glitch-lab888/sample1#readme",
+  "devDependencies": {
+    "prisma": "^3.15.2"
+  }
+}
