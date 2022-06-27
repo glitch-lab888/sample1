@@ -18,5 +18,8 @@
   "homepage": "https://github.com/glitch-lab888/sample1#readme",
   "devDependencies": {
     "prisma": "^3.15.2"
-  }
+  },
+  "engines": {
+     "node": "16.x"
+   }
 }
